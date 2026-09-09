@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "jest-expo": "21.0.2",
-    "react-native-scripts": "1.5.0",
+    "jest-expo": "57.0.5",
+    "react-native-scripts": "2.0.1",
     "react-test-renderer": "16.0.0-alpha.12",
     "concurrently": "3.4.0"
   },
@@ -24,7 +24,7 @@
     "prop-types": "15.6.0",
     "react": "16.7.0",
     "react-dom": "16.7.0",
-    "react-native": "0.48.4",
+    "react-native": "0.87.1",
     "react-native-navbar": "2.0.1",
     "react-navigation": "1.0.0-beta.13"
   }
